@@ -1,0 +1,28 @@
+.c1 {
+  padding: 10px;
+  border: 1px solid #000;
+  margin: 20px;
+}
+
+.c2 {
+  /* padding: 20px 50px 5px 30px; */
+  padding-top: 20px;
+  padding-right: 50px;
+  padding-bottom: 5px;
+  padding-left: 30px;
+  border: 1px solid #0000;
+  margin: 100px;
+}
+
+/* Displays */
+.display div {
+  border: 1px solid blue;
+  background-color: aliceblue;
+  padding: 10px;
+  width: 200px;
+}
+
+/* inline */
+.c-inline div {
+  display: inline;
+}

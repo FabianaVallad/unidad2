@@ -1,0 +1,30 @@
+/* Displays */
+.display div {
+  border: 1px solid rgb(201, 49, 193);
+  background-color: rgb(192, 235, 252);
+  padding: 10px;
+  width: 200px;
+}
+
+/* inline */
+.c-inline div {
+  display: inline;
+}
+
+/* block */
+.c-block div {
+  display: block;
+}
+
+/*Inline block */
+.c-inline-block div {
+  display: inline-block;
+}
+
+.c-none div {
+  display: inline-block;
+}
+
+#div-none {
+  display: none;
+}
